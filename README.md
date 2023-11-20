@@ -2,9 +2,10 @@
 Atualemente desenvolvo aplicações backend, atuando com soluções MDM (framework Tibco EBX) juntamente com microserviços em python e java.
 Sou uma pessoa dedicada à programação, apaixonado por resolver problemas de forma criativa e eficiente!
 
-- 🔭 Hoje trabalho com backend
+- 💼 Hoje trabalho com backend
 - 🌱 Estou estudando Python e Django
-- 👯 linkedin: https://www.linkedin.com/in/alexandrelsantana/
+- 🎓 Sou graduado em Sistemas de Informação pela <a href="https://www.unisinos.br/">Unisinos/RS</a>.
+- 🎓 Sou pós-graduado/MBA em Técnologia para negócios com utilização de IA na <a href="https://www.pucrs.br/">PUCRS</a>.
 - 😄 Pronomes: ele/dele
 
 <h3>Minhas Skills</h3>
