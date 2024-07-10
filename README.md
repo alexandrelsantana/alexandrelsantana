@@ -17,7 +17,8 @@ Sou uma pessoa dedicada à programação, apaixonado por resolver problemas de f
   <img align="center" alt="Flask" height="30" width="100" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
   <img align="center" alt="Django" height="30" width="100" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img align="center" alt="Apache Kafka" height="30" width="130" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka">
-<!--  Fonte: https://github.com/Ileriayo/markdown-badges -->  
+  <img align="center" alt="React" height="30" width="100" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<!--  Fonte: https://github.com/Ileriayo/markdown-badges -->
 </div>
 
   
