@@ -1,9 +1,10 @@
 ### Olá, sou o Alexandre Lima Santana!
-Atualemente desenvolvo aplicações backend, atuando com soluções MDM (framework Tibco EBX) juntamente com microserviços em python e java.
+Atualemente desenvolvo aplicações fullstack, atuando com soluções MDM (framework Tibco EBX) juntamente com microserviços em python e java e aplicações monilíticas com
+Django e React.
 Sou uma pessoa dedicada à programação, apaixonado por resolver problemas de forma criativa e eficiente!
 
-- 💼 Hoje trabalho com backend
-- 🌱 Estou estudando Python e Django
+- 💼 Hoje trabalho como fullstack
+- 🌱 Estou estudando AWS
 - 🎓 Sou graduado em Sistemas de Informação pela <a href="https://www.unisinos.br/">Unisinos/RS</a>.
 - 🎓 Sou pós-graduado/MBA em Técnologia para negócios com utilização de IA pela <a href="https://www.pucrs.br/">PUCRS</a>.
 - 😄 Pronomes: ele/dele
