@@ -1,6 +1,5 @@
 ### Olá, sou o Alexandre Lima Santana!
-Atualemente desenvolvo aplicações fullstack, atuando com soluções MDM (framework Tibco EBX) juntamente com microserviços em python e java e aplicações monilíticas com
-Django e React.
+Atualemente desenvolvo aplicações fullstack, atuando em soluções React com backend em java e python, assim como em soluções MDM (framework Tibco EBX em java) juntamente com microserviços em python e java.
 Sou uma pessoa dedicada à programação, apaixonado por resolver problemas de forma criativa e eficiente!
 
 - 💼 Meu cargo atualmente é de Desenvolvedor de Software Senior
